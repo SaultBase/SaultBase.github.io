@@ -62,19 +62,19 @@ ul.posts li {
 
 @media (min-width:768px) {
 	body {
-		width: 768px;
+		width: 100%;
              }
 }
 
 @media (min-width:992px) {
 	body {
-		width: 902px;
+		width: 100%;
              }
 }
 
 @media (min-width:1200px) {
 	body {		
-		width: 1200px;
+		width: 100%;
              }
 }
 
