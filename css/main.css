@@ -11,7 +11,11 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    
+}
+nav{
     background-color: #eeeeee;
+    padding: 5px;
 }
 a {
     text-decoration: none;
@@ -33,11 +37,12 @@ footer {
     text-align:center;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-    color: white;
     background-color: black;
     padding: 5px;
 }
-
+.copyright{
+    color:white;
+}
 
 ul.posts { 
     margin: 20px auto 40px; 
