@@ -36,6 +36,9 @@ footer {
     background-color: black;
     padding: 5px;
 }
+footer p {
+    color: white;
+}
 
 ul.posts { 
     margin: 20px auto 40px; 
