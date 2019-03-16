@@ -20,6 +20,7 @@ nav ul li, footer ul li {
 nav{
     background-color: #eeeeee;
     padding: 3px;
+    width: 100%;
 }
 a {
     text-decoration: none;
@@ -45,6 +46,7 @@ footer {
     font-size: .8em;
     background-color: #eeeeee;
     padding: 5px;
+    width: 100%;
 }
 .copyright{
     color:black;
