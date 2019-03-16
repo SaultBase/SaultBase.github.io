@@ -62,21 +62,21 @@ ul.posts li {
 
 @media (min-width:768px) {
 	body {
-		margin: 60px auto;
+		margin: 0 auto;
 		width: 750px;
              }
 }
 
 @media (min-width:992px) {
 	body {
-		margin: 60px auto;
+		margin: 0 auto;
 		width: 970px;
              }
 }
 
 @media (min-width:1200px) {
 	body {
-		margin: 60px auto;
+		margin: 0 auto;
 		width: 1170px;
              }
 }
