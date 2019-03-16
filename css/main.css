@@ -65,46 +65,30 @@ ul.posts li {
 
 
 @media (min-width:768px) {
-
 	.container {
-
-		width: 750px
-
+		width: 750px;
+		background: #ccc;
 	}
 
 }
-
- 
 
 @media (min-width:992px) {
-
 	.container {
-
 		width: 970px
-
 	}
 
 }
 
- 
-
 @media (min-width:1200px) {
-
 	.container {
-
 		width: 1170px
-
 	}
 
 }
 
 @media (min-width:1200px) {
-
 	.container {
-
 		width: auto
-
 	}
-
 }
 
