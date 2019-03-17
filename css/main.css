@@ -82,12 +82,15 @@ body {
     color: rgba(255,255,255,.75);
     border-bottom: 2px solid transparent;
 }
+
 .masthead-nav > li > a:hover,
 .masthead-nav > li > a:focus {
     background-color: transparent;
     border-bottom-color: #a9a9a9;
     border-bottom-color: rgba(255,255,255,.25);
 }
+
+
 .masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
 .masthead-nav > .active > a:focus {
@@ -116,10 +119,7 @@ body {
     padding: 10px 20px;
     font-weight: bold;
 }
-.cover-heading{
-    font-size: 40pt;
-    padding: 5px;
-}
+
 
 /*
  * Footer
@@ -155,6 +155,16 @@ body {
     .cover-container {
         width: 100%; /* Must be percentage or pixels for horizontal alignment */
     }
+
+    .cover-heading{
+        font-size: 30pt;
+        padding: 5px;
+    }
+
+    .contact img{
+        height: 35px;
+        width: 35px;
+    }
 }
 
 @media (min-width: 992px) {
@@ -163,11 +173,20 @@ body {
     .cover-container {
         width: 700px;
     }
+    .cover-heading{
+        font-size: 40pt;
+        padding: 5px;
+    }
+
+    .contact img{
+        height: 65px;
+        width: 65px;
+    }
 }
 
-.contact li{
+.contact span{
     text-align: center;
     display: inline;
     margin-right: 20px;
-    height:40px;
 }
+

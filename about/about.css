@@ -23,8 +23,9 @@ section{
     padding: 5px;
 }
 img{
-    height: 256px;
-    padding: 5px;
+    height: 150px;
+    padding: 10px;
+
 }
 .clearfloat{
     clear: both;
