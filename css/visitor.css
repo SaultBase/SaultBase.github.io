@@ -112,3 +112,8 @@ body {
     color: #444444; /* IE8 proofing */
     color: rgba(68, 68, 68, 0.5);
 }
+.globe{
+    text-align: center;
+    width: 100%;
+    height:100%;
+}
