@@ -1,77 +1,31 @@
-body{
-  background-color: #555555;
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
 }
-h1{
-  padding: 5px;
-}
-
-.masthead-brand {
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-.masthead-nav > li {
-  display: inline-block;
-}
-.masthead-nav > li + li {
-  margin-left: 20px;
-}
-
-.masthead-nav > li > a {
-  padding-right: 0;
-  padding-left: 0;
-  font-size: 16px;
-  font-weight: bold;
-  color: #fff; /* IE8 proofing */
-  color: rgba(255,255,255,.75);
-  border-bottom: 2px solid transparent;
-}
-
-.nav_tar{
-  background-color: #444;
-  padding: 5px;
-}
-
-.masthead-nav > li > a:hover,
-.masthead-nav > li > a:focus {
-  background-color: transparent;
-  border-bottom-color: #a9a9a9;
-  border-bottom-color: rgba(255,255,255,.25);
-}
-
-.masthead-nav > .active > a,
-.masthead-nav > .active > a:hover,
-.masthead-nav > .active > a:focus {
-  color: #fff;
-  border-bottom-color: #fff;
-}
-
 @media (min-width: 768px) {
-  .masthead-brand {
-    float: left;
-  }
-  .masthead-nav {
-    float: right;
+  .container {
+    width: 750px;
   }
 }
-
-
-.starter {
-  padding: 40px 15px;
-  text-align: center;
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
 }
-
-
-footer {
-  text-align: center;
-  border-top: 1px solid #d5d5d5;
-  font-size: .8em;
-  background-color: #444;
-  padding: 10px;
-  width: 100%;
-  color: #999; /* IE8 proofing */
-  color: rgba(255,255,255,.5);
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
 }
-.clearfloat{
-  clear: both;
+.container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.recommend{
+  text-align: center;
+  padding-top: 80px;
 }
