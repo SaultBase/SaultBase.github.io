@@ -33,3 +33,13 @@
 .blog_content{
   text-align: center;
 }
+
+.myfooter {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 5px;
+  text-align: center;
+  color: #444444; /* IE8 proofing */
+  color: rgba(68, 68, 68, 0.5);
+}

@@ -130,9 +130,9 @@ body {
 .mastfoot {
     position: absolute;
     bottom: 0;
-    width: 100%;
     color: #999; /* IE8 proofing */
     color: rgba(255,255,255,.5);
+    text-align: center;
 }
 
 
@@ -147,6 +147,7 @@ body {
         top: 0;
     }
     .mastfoot {
+        text-align: center;
         position: fixed;
         bottom: 0;
     }
