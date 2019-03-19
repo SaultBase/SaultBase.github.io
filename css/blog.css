@@ -3,6 +3,7 @@
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  width: 100%;
 }
 @media (min-width: 768px) {
   .container {
@@ -28,4 +29,7 @@
 .recommend{
   text-align: center;
   padding-top: 80px;
+}
+.blog_content{
+  text-align: center;
 }
