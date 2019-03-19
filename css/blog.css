@@ -31,12 +31,11 @@
   padding-top: 80px;
 }
 .blog_content{
-  text-align: center;
+  text-align: justify;
 }
 
 .myfooter {
   position: absolute;
-  bottom: 0;
   width: 100%;
   padding: 5px;
   text-align: center;
