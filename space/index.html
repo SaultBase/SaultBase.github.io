@@ -7,8 +7,11 @@ title: 寻找你的“盐”
 <ul class="posts">
     {% assign blog = site.posts[0] %}
     <li>
-        <span>{{ blog.date | date_to_string }}</span> »
-        <a href="{{ blog.url }}" title="{{ blog.title }}">{{ blog.title }}</a>
+        <p>
+            <span>{{ blog.date | date_to_string }}</span> »
+            <a href="{{ blog.url }}" title="{{ blog.title }}">{{ blog.title }}</a>
+        </p>
+
     </li>
 
     <li>
