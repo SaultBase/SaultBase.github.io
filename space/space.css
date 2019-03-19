@@ -48,10 +48,11 @@ body {
         border-right: 1px solid #eee;
     }
     .img-responsive{
-        height:40%;
-        width: 40%;
+        height:100px;
+        width: 100px;
     }
 }
+
 
 /* Sidebar navigation */
 .nav-sidebar {
