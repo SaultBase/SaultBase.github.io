@@ -5,9 +5,27 @@ title: 寻找你的“盐”
 
 <h2 class="sub-header">最新<a href="/blog">博文</a></h2>
 <ul class="posts">
-<!-- /.carousel -->
+    <!--[if IE]>
+    {% assign blog = site.posts[0] %}
+    <li>
+        <span>{{ blog.date | date_to_string }}</span> »
+        <a href="{{ blog.url }}" title="{{ blog.title }}">{{ blog.title }}</a>
+    </li>
+
+    <li>
+
+        <a href="#" >玩转前端</a>
+    </li>
+
+    <li>
+        <a href="#" >No python, no code</a>
+    </li>
+
+    <![endif]-->
+    
+    <!--[if !IE]>
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
+
     <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -60,5 +78,6 @@ title: 寻找你的“盐”
         <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
     </a>
-</div><!-- /.carousel -->
+</div>
+    <![endif]-->
 </ul>
