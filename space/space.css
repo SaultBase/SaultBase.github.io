@@ -47,6 +47,10 @@ body {
         background-color: #f5f5f5;
         border-right: 1px solid #eee;
     }
+    .img-responsive{
+        height:100px;
+        width: 100px;
+    }
 }
 
 /* Sidebar navigation */
