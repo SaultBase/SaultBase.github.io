@@ -33,7 +33,9 @@
 .blog_content{
   text-align: justify;
 }
-
+.sub-header{
+  text-align: center;
+}
 .myfooter {
   position: absolute;
   width: 100%;

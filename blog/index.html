@@ -7,11 +7,11 @@ title: 小懒虫博库
     <ul class="posts">
         {% for post in site.posts %}
         <li>
+            <div class="blog_content">
+                <span>{{ post.date | date_to_string }}</span> »
+                <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+            </div>
 
-            <span>{{ post.date | date_to_string }}</span> »
-
-
-            <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 
         </li>
         {% endfor %}
