@@ -199,7 +199,7 @@ date: 2019-01-11
 
 &#160;&#160;&#160;&#160;&#160;&#160; 2013年1月12日，纽约日报以题为“Aaron Swartz, co-founder of Reddit and online activist, hangs himself in Brooklyn apartment, authorities say”报道了Aaron的死亡。很多人认为是他身上的完美主义、刑狱的重压以及所谓的“抑郁症”导致了他的悲剧，但据他的亲友所言以及在YouTobe上所看到的视频，我们至少可以判断--“他不是个快乐的人，但也绝谈不上抑郁”。也许他对这个世界失望过，但他从未拒绝过去拥抱这个世界，他只是想通过自己的努力而使世界有小小的不同，最终却被检察过度、滥用职权的司法系统以及MIT的冷漠所绞杀--这才是悲剧的本源。
 
-&#160;&#160;&#160;&#160;&#160;&#160; 2013年1月11日，“互联网之父” Tim Berners-Lee在悼词中写道：“Aaron死了，在这个疯狂世界漫游的人们，我们失去了一位导师，一位智者。匡扶正义的黑客们，我们倒下了一员，我们失去了我们中的一员。教育者们，职业者们，聆听者们，供给者们，所有的父母们，我们失去了一个孩子。让我们哭泣吧！”
+&#160;&#160;&#160;&#160;&#160;&#160; 2013年1月11日，“互联网之父” Tim Berners-Lee在悼词中写道：“*Aaron死了，在这个疯狂世界漫游的人们，我们失去了一位导师，一位智者。匡扶正义的黑客们，我们倒下了一员，我们失去了我们中的一员。教育者们，职业者们，聆听者们，供给者们，所有的父母们，我们失去了一个孩子。让我们哭泣吧！*”
 
 <!--div>
 Aaron is dead. Wanderers in this crazy world, we have lost a mentor, a wise elder. Hackers for right, we are one down, we have lost one of own. Nurturers, carers, listeners, feeders, parents all, we have lost a child. Let us all weep.
