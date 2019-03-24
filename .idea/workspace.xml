@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c925f9cc-4a32-4103-92f2-6a818e15e2e3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/_layouts/essay.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/essay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/essay.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/essay.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/space/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/space/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,26 +29,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/space/space.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3026">
+            <state relative-caret-position="596">
               <caret line="148" column="16" selection-start-line="148" selection-start-column="16" selection-end-line="148" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/code.css">
+        <entry file="file://$PROJECT_DIR$/_layouts/space.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="107" column="26" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="26" />
+            <state relative-caret-position="-240">
+              <caret line="166" column="70" selection-start-line="166" selection-start-column="70" selection-end-line="166" selection-end-column="70" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/space/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#li#1;n#ul#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/essay.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="65" column="47" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
+            <state relative-caret-position="420">
+              <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -63,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/essay.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-660">
-              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="626">
+              <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -77,15 +91,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="956">
-              <caret line="112" column="22" selection-start-line="112" selection-start-column="22" selection-end-line="112" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -157,12 +162,12 @@
         <option value="$PROJECT_DIR$/about/about.css" />
         <option value="$PROJECT_DIR$/code/code.css" />
         <option value="$PROJECT_DIR$/_layouts/space.html" />
-        <option value="$PROJECT_DIR$/space/index.html" />
         <option value="$PROJECT_DIR$/hardware/index.html" />
         <option value="$PROJECT_DIR$/code/index.html" />
-        <option value="$PROJECT_DIR$/css/essay.css" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/space/index.html" />
         <option value="$PROJECT_DIR$/_layouts/essay.html" />
+        <option value="$PROJECT_DIR$/css/essay.css" />
       </list>
     </option>
   </component>
@@ -204,6 +209,11 @@
               <item name="SaultBase.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="SaultBase.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SaultBase.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaultBase.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="space" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -257,12 +267,12 @@
       <workItem from="1553128490470" duration="208000" />
       <workItem from="1553142349403" duration="753000" />
       <workItem from="1553162174511" duration="171000" />
-      <workItem from="1553256827761" duration="10990000" />
+      <workItem from="1553256827761" duration="11362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121611000" />
+    <option name="totallyTimeSpent" value="121983000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="96" y="80" width="1767" height="924" extended-state="0" />
@@ -471,23 +481,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/space/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#li#1;n#ul#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/space.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-498">
-          <caret line="166" column="70" selection-start-line="166" selection-start-column="70" selection-end-line="166" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/code/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="956">
@@ -509,13 +502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/space/space.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3026">
-          <caret line="148" column="16" selection-start-line="148" selection-start-column="16" selection-end-line="148" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -530,13 +516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/essay.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-660">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -547,10 +526,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/space/space.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="148" column="16" selection-start-line="148" selection-start-column="16" selection-end-line="148" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/space/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#li#1;n#ul#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/space.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="166" column="70" selection-start-line="166" selection-start-column="70" selection-end-line="166" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/essay.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="65" column="47" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
+        <state relative-caret-position="420">
+          <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/essay.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
         </state>
       </provider>
     </entry>

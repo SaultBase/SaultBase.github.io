@@ -3,7 +3,7 @@ layout: space
 title: 无限空间
 ---
 
-<h2 class="sub-header">最新<a href="/blog">博文</a></h2>
+<h2 class="sub-header">最新动态</a></h2>
 <ul class="posts">
     {% assign blog = site.posts[0] %}
     <li>
@@ -14,13 +14,20 @@ title: 无限空间
 
     </li>
 
+    {% assign blog = site.posts[1] %}
+    <li>
+        <p>
+            <span>{{ blog.date | date_to_string }}</span> »
+            <a href="{{ blog.url }}" title="{{ blog.title }}">{{ blog.title }}</a>
+        </p>
+
+    </li>
+
+
     <li>
         <p style="color: red">紧急榨取论文中...</p>
     </li>
 
-    <li>
-        <p>玩转前端(待更)</p>
-    </li>
 
 
 
