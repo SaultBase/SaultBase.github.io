@@ -10,7 +10,7 @@
         width: 750px;
     }
     .blog_content h1{
-        font-size: 12pt;
+        font-size: 11pt;
     }
 }
 @media (min-width: 992px) {
@@ -18,7 +18,7 @@
         width: 970px;
     }
     .blog_content h1{
-        font-size: 12pt;
+        font-size: 11pt;
     }
     .content post{
         font-size: 12pt;
@@ -30,7 +30,7 @@
         width: 1170px;
     }
     .blog_content h1{
-        font-size: 15pt;
+        font-size: 12pt;
     }
 }
 .container-fluid {
