@@ -5,13 +5,16 @@ title: 无限空间
 
 <h2 class="sub-header">最新动态</a></h2>
 <ul class="posts">
+    <li>
+        <p style="color: red">论文紧急榨取中,龟速更新,ICP备案同步中...</p>
+    </li>
+
     {% assign blog = site.posts[0] %}
     <li>
         <p>
             <span>{{ blog.date | date_to_string }}</span> »
             <a href="{{ blog.url }}" title="{{ blog.title }}">{{ blog.title }}</a>
         </p>
-
     </li>
 
     {% assign blog = site.posts[1] %}
@@ -24,9 +27,7 @@ title: 无限空间
     </li>
 
 
-    <li>
-        <p style="color: red">紧急榨取论文中...</p>
-    </li>
+
 
 
 
