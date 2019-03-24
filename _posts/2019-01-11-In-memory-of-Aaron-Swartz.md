@@ -28,7 +28,7 @@ date: 2019-01-11
 
 
 <div align='center'>
-<img src="/pic/aaron/grey.jpg">
+<img src="/pic/aaron/grey.jpg" class="img-responsive">
 <p></p>
 </div>
 
@@ -45,7 +45,7 @@ date: 2019-01-11
 
 
 <div align='center'>
-<img src="/pic/aaron/pacer.jpg">
+<img src="/pic/aaron/pacer.jpg" class="img-responsive">
 <p></p>
 </div>
 
@@ -72,7 +72,7 @@ date: 2019-01-11
 
 
 <div align='center'>
-<img src="/pic/aaron/paper2.jpg">
+<img src="/pic/aaron/paper2.jpg" class="img-responsive">
 <p></p>
 </div>
 
@@ -82,7 +82,7 @@ date: 2019-01-11
 
 
 <div align='center'>
-<img src="/pic/aaron/ghost.jpg">
+<img src="/pic/aaron/ghost.jpg" class="img-responsive">
 <p></p>
 </div>
 
@@ -106,14 +106,14 @@ date: 2019-01-11
 &#160;&#160;&#160;&#160;&#160;&#160; Aaron通过DP开展活动，呼吁人们反对SOPA。“有时人们很容易产生一种无力感，就像是你在大街上高声喊叫却又没人听到。但我今天在这里告诉你们，你们是强有力的。是的，也许有时你会觉得没人在听你说什么，但我在这里告诉你，有人在听的，你的声音将被听到，你在改变着这个世界。只要你不停地抗争，你就能阻止该法案”。最终，Aaron号召数百万人签署了anti-SOPA请愿书，并通过网络电话联系国会，提交吁请。
 
 <div align='center'>
-<img src="/pic/aaron/sopa.jpg">
+<img src="/pic/aaron/sopa.jpg" class="img-responsive">
 <p></p>
 </div>
 
 &#160;&#160;&#160;&#160;&#160;&#160; 与此同时，各大知名网站诸如Google、Wikipedia、Reddit、Firefox等纷纷黑屏闭站反抗该法案。
 
 <div align='center'>
-<img src="/pic/aaron/wiki.jpg">
+<img src="/pic/aaron/wiki.jpg" class="img-responsive">
 <p></p>
 </div>
 
@@ -137,7 +137,7 @@ date: 2019-01-11
 
 
 <div align='center'>
-<img src="/pic/aaron/nurb.jpg">
+<img src="/pic/aaron/nurb.jpg" class="img-responsive">
 <p></p>
 </div>
 
@@ -158,11 +158,11 @@ date: 2019-01-11
 - 后记
 -
 
-&#160;&#160;&#160;&#160;&#160;&#160; “互联网之子” Aaron Swartz 离去了，但他的名字不应该被遗忘--我们今天可以方便地订阅新闻资讯，方便地在网上进行自由写作，方便地浏览各种多元的信息，都曾是这个人努力的结果。至少我们应该记得，曾经有个人致力于推动互联网开放、信息自由、知识平等并为此不懈努力过，最终用生命捍卫了他所追随的信仰。也许不是每个人都可以像他那样用技术去改变这个还未完全上道的世界，但他这种对世界的道义、为自由的争取、为平等的抗争始终值得我们尊敬。
+&#160;&#160;&#160;&#160;&#160;&#160; “互联网之子” Aaron Swartz 虽已离去，但他的名字不应该被遗忘--我们今天可以方便地订阅新闻资讯，方便地在网上进行自由写作，方便地浏览各种多元的信息，都曾是这个人努力的结果。至少我们应该记得，曾经有个人致力于推动互联网开放、信息自由、知识平等并为此不懈努力过，最终用生命捍卫了他所追随的信仰。也许不是每个人都可以像他那样用技术去改变这个还未完全上道的世界，但他这种对世界的道义、为自由的争取、为平等的抗争始终值得我们尊敬。
 
 
 <div align='center'>
-<img src="/pic/aaron/library.jpg">
+<img src="/pic/aaron/library.jpg" class="img-responsive">
 <p></p>
 </div>
 
