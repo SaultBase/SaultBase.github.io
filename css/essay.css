@@ -46,17 +46,24 @@
     color: #444444; /* IE8 proofing */
     color: rgba(68, 68, 68, 0.5);
 }
-img{
-    text-align: center;
+
+
+
+
+.content{
+    padding:5px;
+    font-size: 12pt;
 }
 
-.quote{
+.post quote{
     float: right;
     text-align: right;
     font-size: 15pt;
     padding: 8px;
 }
-
-.content{
-    padding:5px;
+.post img{
+    text-align: center;
+}
+.clearfloat{
+    clear: both;
 }
