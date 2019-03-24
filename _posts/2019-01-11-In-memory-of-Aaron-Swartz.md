@@ -5,12 +5,12 @@ date: 2019-01-11
 ---
 
 
-<quote>
+<quote class="text-muted" style="font-size:8pt">
 <i>
 <p>世有不平之法，我们是安于循守？</p>
 <p>还是且守且改，待其功成？</p>
 <p>或是即刻起而破之？</p>
-<p>——亨利&#183大卫&#183梭罗</p>
+<p>——亨利 &#183 大卫 &#183 梭罗</p>
 </i>
 </quote>
 
@@ -20,7 +20,7 @@ date: 2019-01-11
 &#160;&#160;&#160;&#160;&#160;&#160; 2013年1月12-27日，MIT网站、美国司法部网站相继被黑，著名黑客组织“Anonymous”宣称对此负责。2014年1月10日晚，黑客“UIzr1z”攻陷MIT学院课程网站，获得WordPress管理面板权限，重填其下属15个课程首页信息。
 
 <div align='center'>
-<img src="/pic/aaron/grey.jpg" class="img-responsive">
+<img src="/pic/aaron/hacker.jpg" class="img-responsive">
 <p></p>
 </div>
 
