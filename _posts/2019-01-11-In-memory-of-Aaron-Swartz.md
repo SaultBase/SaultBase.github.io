@@ -5,7 +5,7 @@ date: 2019-01-11
 ---
 
 
-<quote class="text-muted" style="font-size:8pt">
+<quote class="text-muted" style="font-size:12pt">
 <i>
 <p>世有不平之法，我们是安于循守？</p>
 <p>还是且守且改，待其功成？</p>
@@ -149,11 +149,20 @@ date: 2019-01-11
 
 &#160;&#160;&#160;&#160;&#160;&#160; 2013年1月12日，纽约日报以题为“Aaron Swartz, co-founder of Reddit and online activist, hangs himself in Brooklyn apartment, authorities say”报道了Aaron的死亡。很多人认为是他身上的完美主义、刑狱的重压以及所谓的“抑郁症”导致了他的悲剧，但据他的亲友所言以及在YouTobe上所看到的视频，我们至少可以判断--“他不是个快乐的人，但也绝谈不上抑郁”。也许他对这个世界失望过，但他从未拒绝过去拥抱这个世界，他只是想通过自己的努力而使世界有小小的不同，最终却被检察过度、滥用职权的司法系统以及MIT的冷漠所绞杀--这才是悲剧的本源。
 
-&#160;&#160;&#160;&#160;&#160;&#160; 2013年1月11日，“互联网之父” Tim Berners-Lee在悼词中写道：“Aaron is dead. Wanderers in this crazy world, we have lost a mentor, a wise elder. Hackers for right, we are one down, we have lost one of own. Nurturers, carers, listeners, feeders, parents all, we have lost a child. Let us all weep.”
+&#160;&#160;&#160;&#160;&#160;&#160; 2013年1月11日，“互联网之父” Tim Berners-Lee在悼词中写道：“Aaron死了，在这个疯狂世界漫游的人们，我们失去了一位导师，一位智者。匡扶正义的黑客们，我们倒下了一员，我们失去了我们中的一员。教育者们，职业者们，聆听者们，供给者们，所有的父母们，我们失去了一个孩子。让我们哭泣吧！”
+
+<!--div>
+Aaron is dead. Wanderers in this crazy world, we have lost a mentor, a wise elder. Hackers for right, we are one down, we have lost one of own. Nurturers, carers, listeners, feeders, parents all, we have lost a child. Let us all weep.
+</div-->
 
 &#160;&#160;&#160;&#160;&#160;&#160; 当世界悲泣之时，同时也在愤怒。
 
 &#160;&#160;&#160;&#160;&#160;&#160; 各界人士开始纷纷为Aaron抗议。以色列历史学家Yuval Noah Harari在演讲中称Aaron是“信息自由运动的第一位烈士”;人们也通过各种集会为他正名--“他是这国家产生过的真正非凡的革命者之一”，“当我们让代表法律的武装特工去对付要增加获取知识途径的公民时，我们便已违反了法律的原则，我们便已亵渎了公正之殿堂，亚伦 斯沃兹不是一个罪犯”;同时还有游行抗议--“我们也是人民啊，网络自由受攻击，我们该怎么办？站起身来，反击回去！”以及几乎每年一度的MIT相关主页被黑。
+
+<div align='center'>
+<img src="/pic/aaron/tour.jpg" class="img-responsive">
+<p></p>
+</div>
 
 &#160;&#160;&#160;&#160;&#160;&#160; 后来，美国众议员Zoe Lofgren和参议员Ron Wyden推出新发改革那部用于指控Aaron的落伍的法律，并将其命名为“Aaron’s Law”；值得一提的是，当来自巴尔的摩的一个14岁的小孩在网上阅读了Aaron释放的JSTOR学术论文时得到了启发，想出一种提早检测胰腺癌的方法。如果没有那些访问权限，也许那个小孩不会找到问题的答案--这就是Aaron为什么一直坚持知识平等共享。
 
