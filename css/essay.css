@@ -17,7 +17,12 @@
     .container {
         width: 970px;
     }
-
+    .blog_content h1{
+        font-size: 12pt;
+    }
+    .content post{
+        font-size: 12pt;
+    }
 
 }
 @media (min-width: 1200px) {
