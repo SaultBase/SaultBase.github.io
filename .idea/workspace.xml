@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c925f9cc-4a32-4103-92f2-6a818e15e2e3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/code/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="c925f9cc-4a32-4103-92f2-6a818e15e2e3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -171,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="96" />
     <option name="y" value="80" />
     <option name="width" value="1767" />
@@ -277,16 +275,15 @@
       <workItem from="1553128490470" duration="208000" />
       <workItem from="1553142349403" duration="753000" />
       <workItem from="1553162174511" duration="171000" />
-      <workItem from="1553256827761" duration="27730000" />
+      <workItem from="1553256827761" duration="27850000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138351000" />
+    <option name="totallyTimeSpent" value="138471000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="96" y="80" width="1767" height="924" extended-state="1" />
-    <editor active="true" />
+    <frame x="96" y="80" width="1767" height="924" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16252169" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
