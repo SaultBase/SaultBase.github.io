@@ -5,12 +5,14 @@ layout: essay
 <!--div class="col-xs-8 col-md-10 blog_content"-->
 <div class="blog_content">
   <h1>{{ page.title }}</h1>
-  <span class="meta">{{ page.date | date_to_string }}</span> |
-  <span id="busuanzi_container_site_pv">
+  <div class="text-muted">
+    <span class="meta">{{ page.date | date_to_string }}</span> |
+    <span id="busuanzi_container_site_pv">
     总阅读量:<span id="busuanzi_value_site_pv">
   </span>
+    <p></p>
+  </div>
 
-<br/>
   <div class="post" style="text-align:justify;"><!--text-justify:inter-ideograph-->
     {{ content }}
   </div>
