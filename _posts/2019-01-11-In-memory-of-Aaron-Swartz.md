@@ -10,9 +10,7 @@ date: 2019-01-11
 
 <div class="text-muted">
     <span class="meta">{{ page.date | date_to_string }}</span> |
-    <span id="busuanzi_container_site_pv">
-    总阅读量:<span id="busuanzi_value_site_pv">
-  </span>
+    <span id="busuanzi_container_site_pv">总阅读量:<span id="busuanzi_value_site_pv"></span>
     <p></p>
 </div>
 
