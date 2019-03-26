@@ -3,7 +3,7 @@ layout: post
 title: "博客转移声明"
 date: 2019-03-16
 ---
-
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <div class="text-muted" style="text-align: center;">
 <span class="meta">{{ page.date | date_to_string }}</span> |
 <span id="busuanzi_container_site_pv">总阅读量:<span id="busuanzi_value_site_pv"></span></span>
